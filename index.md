@@ -1,3 +1,5 @@
 ## Welcome to Shareslake documentation
 
-# Move Redeemable from Cardano mainnet to Shareslake mainnet. [Guide](bridge.md)
+### Guides
+
+-  Move Redeemable from Cardano mainnet to Shareslake mainnet. [Guide](bridge.md)

@@ -12,9 +12,20 @@ Currently, the wallets supported by the dashboard are:
 
 - [Eternl](https://eternl.io/app/shareslake/welcome)
 
-Before being able to interact with the dashboard you need to create a wallet. Go to one of the wallet websites above, ensure you are using `shareslake` as network, and create a new wallet.
+Before being able to interact with the dashboard you need to create a wallet. Go to one of the wallet website above, ensure you are using `shareslake` as network, and create a new wallet.
 
 > IMPORTANT: if you lose your wallet recovery phrase there is nothing we can do to help recover the wallet nor to refund the Redeemable contained so be sure you store your recovery phrase securely.
+
+Now, you have two options:
+
+- Use the wallet browser extension
+- Use the wallet dapp browser
+
+### Using the dapp browser
+
+![Eternl dapp browser](videos/eternl.gif)
+
+### Using the browser extension
 
 Once you have your wallet created and you have installed the wallet browser extension, enable the dapp connector.
 

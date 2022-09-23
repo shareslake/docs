@@ -1,15 +1,27 @@
-# How to move Redeemable from Cardano mainnet to Shareslake mainnet
+# How to move Redeemable between Shareslake and Cardano mainnets
 
-In order to create a smooth transition from of Redeemable from Cardano mainnet to Shareslake mainnet we setup a bridge.
+Moving Redeemable between networks is really simple.
 
-Shareslake addresses are fully compatible with Cardano addresses. That means you can use the same wallet / key pair to create transactions in both networks maintaining the same address.
+1. Go to the [Shareslake bridge](https://bridge.shareslake.com) website.
+1. Select the transaction direction (either Shareslake -> Cardano or Cardano -> Shareslake). ![Select Tx Direction](/images/bridge-tx-direction.png)
+1. Introduce the destination address (the address that will receive the Redeemable in the destination network) and the amount of Redeemable.![Submit form](/images/bridge-submit-form.png) 
+1. Click submit.
 
-We had to stop the bridge due to some issues and we are working on a second version fixing reliability problems and adding extra features for a better user experience.
+That's all! Sit and relax while the funds appear in the address specified into the destination network.
 
-In the meanwhile, if you want to move your Redeemable from Cardano to Shareslake you can follow these steps:
+## Redeemable token in Cardano
 
-1. Send your Redeemable tokens (in Cardano network) to the following address: `addr1qypfxe56p0r3f0js5cav4jzja7qqedwfd888p6z9kxxs64cmth3jzw7y6ex4hxv9j4uj2e37ael8207rd2zfhjnnpukqy382j8`.
+Redeemable in Cardano lives as a token, with policy id: `cd5b9dd91319edbb19477ad00cbef673a221e70a17ef043951fc6786` and asset name: `52656465656d61626c65`.
 
-2. Send us a message through the `bridge` channel of our discord [server](https://discord.gg/Ds6XVSNFBq).
 
-3. A Shareslake member will take care of sending you the equivalent Redeemable through Shareslake network.
+## Redeemable token v1
+
+There are still some Redeemable v1 in circulation in Cardano mainnet. Those correspond to the policy ID: `e1d921643d6fd55a815f495f72aff7f5c3d7ac57a8783e0be293ac17` and asset name: `52656465656d61626c65`, with fingerprint: `asset185fu203mpwrexv34z2saeydpgq8v9z2gjkqglw`.
+
+If you hold some of those tokens please contact us so we can help you converting them to the new ones. For a smooth transition, please follow the steps below:
+
+1. Send your Redeemable v1 tokens (in Cardano network) to the following address: `addr1qypfxe56p0r3f0js5cav4jzja7qqedwfd888p6z9kxxs64cmth3jzw7y6ex4hxv9j4uj2e37ael8207rd2zfhjnnpukqy382j8`.
+
+2. Send us a message through the `bridge` channel of our discord [server](https://discord.gg/Ds6XVSNFBq) or contact us at `info@shareslake.com`.
+
+3. A Shareslake member will take care of sending you the equivalent Redeemable to THE SAME WALLET ADDRESS.

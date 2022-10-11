@@ -8,8 +8,6 @@ Redeemable allows people to get rid of crypto volatility at the same time than t
 
 To obtain Redeemable by putting USD into the reserve, or redeem USD from the reserve by burning Redeemable, you have to connect your wallet to [Shareslake's dashboard](https://dashboard.shareslake.com). Into the dashboard you just need to follow the steps and, at the next epoch boundary, your Redeemable will be issued to your wallet (redemptions do not need to wait until the epoch boundary). The epoch boundary happens every 3 days, so the maximum time you will need to wait for your Redeemable to appear in your wallet is 3 days. Once you have Redeemable in your wallet, transactions take just some seconds to be processed by the Shareslake network.
 
-The dashboard supports both fiat deposits and ADA deposits to the reserve, and it supports to issue the Redeemables in Shareslake network or Cardano network. After the issuance, the Redeemables can be moved between networks using the [Shareslake's Bridge](https://bridge.shareslake.com)
-
 Currently, the wallets supported by the dashboard are:
 
 - [Eternl](https://eternl.io/app/shareslake/welcome)
@@ -22,6 +20,13 @@ Now, you have two options:
 
 - Use the wallet browser extension
 - Use the wallet dapp browser
+
+### Deposit methods
+
+The dashboard supports both fiat deposits and ADA deposits to the reserve.
+
+* Fiat deposits: you can use either card or payment request (bank transfer). Card payments are faster to process, but incur in higher processing fees than bank transfers.
+* ADA deposits from Cardano network: you can directly connect your Cardano wallet and deposit ADA, obtaining Reedemable directly in the Cardano network. After the direct minting in Cardano, the Redeemables can be moved between networks using the [Shareslake's Bridge](https://bridge.shareslake.com) as usual. The conversion of the ADA to USD is done in our side. Also, note that the internal process we follow equals to mint RED in Shareslake and move it through the Shareslake's bridge to the Cardano network.
 
 ### Using the dapp browser
 

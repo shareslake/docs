@@ -2,11 +2,13 @@
 
 Redeemable (RED) currently lives in both Shareslake and Cardano. With the time, we will take Redeemable to more networks.
 
-Redeemable allows people to get rid of crypto volatility at the same time than they protect from fiat inflation. Redeemable users preserve their purchasing power over time. Redeemable is NOT a 1:1 pegged stablecoin nor a usual cryptocurrency, it is a new concept of coin.
+Redeemable allows people to get rid of crypto volatility at the same time than they protect from fiat inflation. Each Redeemable preserves its purchasing power over time. Redeemable is a novel concept of stablecoin pegged to living costs.
 
 ## Interacting with the reserve
 
 To obtain Redeemable by putting USD into the reserve, or redeem USD from the reserve by burning Redeemable, you have to connect your wallet to [Shareslake's dashboard](https://dashboard.shareslake.com). Into the dashboard you just need to follow the steps and, at the next epoch boundary, your Redeemable will be issued to your wallet (redemptions do not need to wait until the epoch boundary). The epoch boundary happens every 3 days, so the maximum time you will need to wait for your Redeemable to appear in your wallet is 3 days. Once you have Redeemable in your wallet, transactions take just some seconds to be processed by the Shareslake network.
+
+The dashboard supports both fiat deposits and ADA deposits to the reserve, and it supports to issue the Redeemables in Shareslake network or Cardano network. After the issuance, the Redeemables can be moved between networks using the [Shareslake's Bridge](https://bridge.shareslake.com)
 
 Currently, the wallets supported by the dashboard are:
 
@@ -37,9 +39,12 @@ You are now ready to go to the Shareslake dashboard. Click [here](https://dashbo
 
 > NOTE: some wallets offer a dapp browser so you can save to install the browser extension. If you decide to use the wallet's dapp browser open and paste the dashboard URL into the search box: `https://dashboard.shareslake.com`.
 
+## How to use the Shareslake's Dashboard
+
 Once on the dashboard, you need to follow these steps:
 
 1. Read and accept the terms and conditions.
+1. Select the network in which you want to obtain the Redeemable, or in other words, the network to which your wallet is connected to. If using `Shareslake` deposits to the reserve will be done using fiat (USD), if using `Cardano`, the deposits to the reserve will be done using ADA.
 1. Click the button for the wallet you are using.
 
 If it is the first time you access the dashboard you will need to pass the verification process:

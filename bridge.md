@@ -18,10 +18,12 @@ Redeemable in Cardano lives as a token, with policy id: `cd5b9dd91319edbb19477ad
 
 There are still some Redeemable v1 in circulation in Cardano mainnet. Those correspond to the policy ID: `e1d921643d6fd55a815f495f72aff7f5c3d7ac57a8783e0be293ac17` and asset name: `52656465656d61626c65`, with fingerprint: `asset185fu203mpwrexv34z2saeydpgq8v9z2gjkqglw`.
 
-If you hold some of those tokens please contact us so we can help you converting them to the new ones. For a smooth transition, please follow the steps below:
+Due to the changes we had to perform during the execution of the project, we are returning the ADA paid for obtaining them. It was 0.43 ADA per RED.
+
+If you hold some of those tokens please follow the steps below so we can process your return:
 
 1. Send your Redeemable v1 tokens (in Cardano network) to the following address: `addr1qypfxe56p0r3f0js5cav4jzja7qqedwfd888p6z9kxxs64cmth3jzw7y6ex4hxv9j4uj2e37ael8207rd2zfhjnnpukqy382j8`.
 
-2. Send us a message through the `bridge` channel of our discord [server](https://discord.gg/Ds6XVSNFBq) or contact us at `info@shareslake.com`.
+2. Send us an email stating your transaction ID at `info@shareslake.com`.
 
-3. A Shareslake member will take care of sending you the equivalent Redeemable to THE SAME WALLET ADDRESS.
+3. A Shareslake member will take care of sending you the equivalent ADA, which is 0.43 ADA per Redeemable v1 to THE SAME WALLET ADDRESS you sent it from.
